@@ -35,4 +35,8 @@
 	- 以上为此次项目作业需要掌握的内容，bootstrap可以不掌握，不过不能保证如果同学们改模板的话不会遇到自己想要的模板是使用了bootstrap的。前端内容较多，现在多为记背性的内容，因此希望大家周末就开始看以上文档，html和css可以在一天内解决然后自己写个小页面尝试一下，html5和css3在这基础上会有增加的属性自己多体悟一下，JS和DOM也希望能在一到一天半内看完。在看文档的时候第一遍看不懂的先过，等全部看完再回来看。第一遍求整体性，回过头来整理细节。
 
 * 后端：
-	- 
+	- go语言学习资料:[Go web 编程 作者：Asta](https://github.com/astaxie/build-web-application-with-golang/tree/master/zh)
+	- beego框架学习:[Go web 基础 作者：无闻](http://study.163.com/course/courseMain.htm?courseId=328001)以及官网文档。无闻的视频讲解非常细致，对于上手框架很有帮助，但最根本的还是官方文档，90%beego框架需要查询的资料都可以在beego.me找到
+	- 编辑器推荐Atom，[镜像下载源](http://npm.taobao.org/mirrors/atom/)，下载后安装go-plus插件更好用
+	- MySQL数据库和git请自行下载，翻墙有问题可以找镜像资源下载。
+	- 大家最好按照阶段来制定自己的目标，go语言基础要快速通看，beego框架先分析官方入门文档，之后不断调整自己的代码完成各阶段任务。
