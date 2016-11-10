@@ -25,3 +25,14 @@
 	    + 对图片的简介有曾删改查的操作 
 	- 第三阶段
 		+ 图片的预览，具体参照前端
+
+##学习资料
+* 前端：
+	- 学习[HTML入门](http://www.runoob.com/html/html-tutorial.html)和[HTML5](http://www.runoob.com/html/html5-intro.html)中的input类型、表单和语义元素
+	- 学习[CSS](http://www.runoob.com/css/css-tutorial.html)和[CSS3](http://www.runoob.com/css3/css3-tutorial.html)
+	- 学习[Bootstrap UI框架](http://www.runoob.com/bootstrap/bootstrap-tutorial.html)
+	- 学习[JavaScript](http://www.runoob.com/js/js-tutorial.html)和[DOM](http://www.runoob.com/htmldom/htmldom-tutorial.html)
+	- 以上为此次项目作业需要掌握的内容，bootstrap可以不掌握，不过不能保证如果同学们改模板的话不会遇到自己想要的模板是使用了bootstrap的。前端内容较多，现在多为记背性的内容，因此希望大家周末就开始看以上文档，html和css可以在一天内解决然后自己写个小页面尝试一下，html5和css3在这基础上会有增加的属性自己多体悟一下，JS和DOM也希望能在一到一天半内看完。在看文档的时候第一遍看不懂的先过，等全部看完再回来看。第一遍求整体性，回过头来整理细节。
+
+* 后端：
+	- 
